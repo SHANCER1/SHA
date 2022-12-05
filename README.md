@@ -31,7 +31,7 @@
 3.  ***Click [FORK](https://github.com/SHANCER1/SHANZ-MD/fork)***
 4.  ***Deploy on [Heroku](heroku.com)***
 
-5. ***[Deploy on Koyeb](https://secktorbot.me/koyeb)***
+5. ***[Deploy on Koyeb](https://app.koyeb.com/apps/deploy?type=git&repository=https://github.com/SHANCER1/SHANZ-MD&branch=main&build_command=npm%20i&run_command=npm%20start&env[SESSION_ID]&env[OWNER_NUMBER]&env[MONGODB_URI]&&env[OWNER_NAME]&env[PREFIX]=.&env[THUMB_IMAGE]=https://telegra.ph/file/85406903bf0a252a18b8a.jpg&env[email]=shanzbot1234@gmail.com&env[global_url]=https://www.instagram.com/hiru_shanz/&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[ANTI_BAD_WORD]=fuck&env[WORKTYPE]=public&env[THEME]=GOKU&env[PACK_INFO]=Created-by-Mr-SHANZ;SHANZ-MD&name=secktorbot&env[KOYEB_NAME]=shancer1&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)***
 
 6.  ***[Deploy on Railway](railway.app)***
   
