@@ -27,7 +27,7 @@
 ## Deployment Methods
 ---
 1. ***Get [SESSION-ID](https://secktorbot.tech) and scan QR code. `Whatapp>Three dots>Linked Devices`***
-2.  ***Get a Mongodb uri from [Mongodb](https://github.com/SamPandey001/Secktor-Md/blob/main/Mongodb-URI.md).***
+2.  ***Get a Mongodb uri from [Mongodb](https://www.mongodb.com).***
 3.  ***Click [FORK](https://github.com/SHANCER1/SHANZ-MD/fork)***
 4.  ***Deploy on [Heroku](heroku.com)***
 
