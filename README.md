@@ -37,7 +37,7 @@
   
 7. ***Deploy in [Linux](https://github.com/SHANCER1/SHANZ-MD#deploy-in-any-shell-including-termux)***
 
-8. if you get error in doing above try, [Deploy on VPS or PC.](https://github.com/SamPandey001/Secktor-Md/blob/main/deploy-on-vps.md)
+8. if you get error in doing above try, [Deploy on VPS or PC.](https://github.com/SHANCER1/SHANZ-MD/blob/23f256efe85ee1aad4a443a8873aaf109e0e6deb/deploy-on-vps.md)
 ---
 9. More info about [SHANZ](https://youtube.com/channel/UCX9GuKbYYWJ80O3Kymkn3Uw).
 10. Deploy tutorial [Youtube Video](https://youtube.com/channel/UCX9GuKbYYWJ80O3Kymkn3Uw).
