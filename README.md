@@ -23,7 +23,6 @@
 
   <p align="center"> Introducing SHANZ,SHANZ-MD is designed to bring a whole new level of excitement to your boring WhatsApp use. </p
  
-- Install [External Plugins](https://github.co/SamPan00gins)
 ## Deployment Methods
 ---
 1. ***Get [SESSION-ID](https://replit.com/@MalinduHirushan/SHANZ-MD) and scan QR code. `Whatapp>Three dots>Linked Devices`***
